@@ -1,0 +1,7 @@
+#since most of the project is based on hardware requirements,the code is really tiny. Here x is the sensor detection
+
+for x in range(0, 2):
+    if x == 1:
+        print("Space is occupied")
+    else:
+        print("Space is vacant")
